@@ -8,4 +8,5 @@ RENCANA PEKERJAAN TIAN
 - Berkebun
 - Beternak
   *Lebah
+  * Ikan
 - Berdagang
